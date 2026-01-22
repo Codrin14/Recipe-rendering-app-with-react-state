@@ -1,6 +1,6 @@
 {
-  "name": "Scrim-s06ivq7",
-  "description": "https://scrimba.com/fullstack-path-c0fullstack/~072g",
+  "name": "Recipe-rendering-assistent",
+  "description": "AI Agent help you choose a recipe after you give him a list of ingredients that you have",
   "scripts": {
     "start": "vite",
     "dev": "vite",
